@@ -1,0 +1,9 @@
+{
+  "name": "newsletter-writing",
+  "displayName": "Newsletter Writing",
+  "description": "Write newsletters that get opened, read, and clicked — with data-backed subject lines, pacing, and retention strategies.",
+  "category": "writing",
+  "tags": ["newsletter", "email", "substack", "beehiiv", "convertkit", "writing", "retention"],
+  "author": "Distro",
+  "version": "1.0.0"
+}

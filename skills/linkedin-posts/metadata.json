@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-posts",
+  "displayName": "LinkedIn Posts",
+  "description": "Write scroll-stopping LinkedIn posts with algorithm-aligned hooks, formatting, and engagement strategies.",
+  "category": "platform",
+  "tags": ["linkedin", "social-media", "b2b", "thought-leadership", "engagement"],
+  "author": "Distro",
+  "version": "1.0.0"
+}

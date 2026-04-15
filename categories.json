@@ -1,0 +1,8 @@
+{
+  "categories": [
+    { "id": "platform", "label": "Platform-Specific", "description": "Write for specific platforms with native formatting and best practices", "icon": "globe" },
+    { "id": "strategy", "label": "Content Strategy", "description": "Plan, analyze, and optimize your content approach", "icon": "chart-line" },
+    { "id": "writing", "label": "Writing", "description": "Master specific content formats and writing styles", "icon": "file-text" },
+    { "id": "founder", "label": "Founder", "description": "Build your personal brand as a startup founder", "icon": "rocket" }
+  ]
+}

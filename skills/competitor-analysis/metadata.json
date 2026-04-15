@@ -1,0 +1,9 @@
+{
+  "name": "competitor-analysis",
+  "displayName": "Competitor Analysis",
+  "description": "Analyze competitor content strategies, find gaps and opportunities, and turn competitive intelligence into winning content angles.",
+  "category": "strategy",
+  "tags": ["competitor-analysis", "strategy", "research", "positioning", "content-gaps"],
+  "author": "Distro",
+  "version": "1.0.0"
+}

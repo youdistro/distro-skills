@@ -1,0 +1,9 @@
+{
+  "name": "content-repurposing",
+  "displayName": "Content Repurposing",
+  "description": "Transform one long-form piece into 8-12 platform-native derivatives using atomic idea extraction and smart reformatting.",
+  "category": "strategy",
+  "tags": ["repurposing", "content-strategy", "efficiency", "multi-platform", "workflow"],
+  "author": "Distro",
+  "version": "1.0.0"
+}
