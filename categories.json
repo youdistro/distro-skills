@@ -4,5 +4,14 @@
     { "id": "strategy", "label": "Content Strategy", "description": "Plan, analyze, and optimize your content approach", "icon": "chart-line" },
     { "id": "writing", "label": "Writing", "description": "Master specific content formats and writing styles", "icon": "file-text" },
     { "id": "founder", "label": "Founder", "description": "Build your personal brand as a startup founder", "icon": "rocket" }
+  ],
+  "skills": [
+    { "name": "linkedin-posts", "displayName": "LinkedIn Posts", "description": "Write scroll-stopping LinkedIn posts with algorithm-aligned hooks, formatting, and engagement strategies.", "category": "platform" },
+    { "name": "twitter-threads", "displayName": "Twitter/X Threads", "description": "Craft viral X threads with scroll-stopping lead tweets, strong transitions, and algorithm-optimized engagement tactics.", "category": "platform" },
+    { "name": "content-repurposing", "displayName": "Content Repurposing", "description": "Transform one long-form piece into 8-12 platform-native derivatives using atomic idea extraction and smart reformatting.", "category": "strategy" },
+    { "name": "thought-leadership", "displayName": "Thought Leadership", "description": "Develop original perspectives, contrarian takes, and opinion-driven content that establishes you as an authority in your space.", "category": "strategy" },
+    { "name": "competitor-analysis", "displayName": "Competitor Analysis", "description": "Analyze competitor content strategies, find gaps and opportunities, and turn competitive intelligence into winning content angles.", "category": "strategy" },
+    { "name": "newsletter-writing", "displayName": "Newsletter Writing", "description": "Write newsletters that get opened, read, and clicked — with data-backed subject lines, pacing, and retention strategies.", "category": "writing" },
+    { "name": "personal-brand-founder", "displayName": "Personal Brand for Founders", "description": "Build a compelling founder personal brand with build-in-public storytelling, journey content, and the right personal-to-company balance.", "category": "founder" }
   ]
 }
